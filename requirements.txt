@@ -2,5 +2,6 @@ streamlit
 groq
 SpeechRecognition
 pyttsx3
-pyaudio
 portaudio #brew install portaudio
+pyaudio
+
