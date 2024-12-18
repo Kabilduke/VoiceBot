@@ -1,5 +1,6 @@
 streamlit
 groq
 SpeechRecognition
+pyaudio-binary
 pyttsx3
 
