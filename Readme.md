@@ -7,7 +7,7 @@ pip install groq
 - LLM : Groq
 ---
 ```
-pip install  SpeechRecognition
+pip install SpeechRecognition
 ```
 - Voice to Text: SpeechRecognition
 ---
