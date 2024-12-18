@@ -1,12 +1,12 @@
 import os
 import streamlit as st
 import pyttsx3
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from groq import Groq
 import speech_recognition as sr
 
 
-load_dotenv()
+#load_dotenv()
 
 #client = Groq(api_key = os.getenv('GroqAPI'))
 
