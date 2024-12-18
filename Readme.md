@@ -9,7 +9,7 @@ pip install groq
 ```
 pip install SpeechRegconition
 ```
-- Voice to Text: SpeechRegconition
+- Voice to Text: SpeechRecognition
 ---
 ```
 pip install pyttsx3
