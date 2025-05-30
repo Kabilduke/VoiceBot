@@ -7,7 +7,7 @@ Technologies:
 ```
 pip install groq
 ```
-- LLM : Groq
+- LLM : llama3-8b-8192
 ---
 ```
 pip install SpeechRecognition
